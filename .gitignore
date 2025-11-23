@@ -19,7 +19,9 @@
 /storage/*.key
 /storage/pail
 /vendor
+!public/vendor/
+!public/vendor/moonshine/
+!public/vendor/moonshine/**
 Homestead.json
 Homestead.yaml
 Thumbs.db
-!public/vendor/moonshine/
